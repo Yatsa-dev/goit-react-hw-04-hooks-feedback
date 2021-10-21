@@ -1,0 +1,9 @@
+.section {
+    text-align:start;
+  }
+  
+  .section:last-child {
+    min-height: 50px;
+  }
+  
+  
